@@ -5,8 +5,8 @@
 %global crate http
 
 Name:           rust-%{crate}
-Version:        0.2.0
-Release:        2%{?dist}
+Version:        1.5.0
+Release:        1%{?dist}
 Summary:        Set of types for representing HTTP requests and responses
 
 # Upstream license specification: MIT/Apache-2.0
